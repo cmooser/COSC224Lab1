@@ -1,0 +1,7 @@
+This is a test of the file that I am making in my branch.
+These are some of my favourite animals:
+Cats
+Dogs
+Not Horses
+Snakes
+BirdS
